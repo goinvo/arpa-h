@@ -15,8 +15,8 @@ John Brownstein and Sarah Scalia, Boston Children's Hospital
 This project is [Apache 2.0](https://github.com/goinvo/paradigm/blob/main/LICENSE) licensed.
 
 ### Contact
-[hello@goinvo.com](hello@goinvo.com)
+[hello@goinvo.com](mailto:hello@goinvo.com)
 
 ### Let's build the future of healthcare together!
-We can help you design and ship your own version of augmented clinical decision support.
-[Contact us](hello@goinvo.com) to discuss your project.
+We can help you design and ship your own version of augmented clinical decision support.  
+[Contact us](mailto:hello@goinvo.com) to discuss your project.
