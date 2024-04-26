@@ -1,7 +1,7 @@
 # Paradigm
 
 ### Feature
-(link to website feature)
+[https://www.goinvo.com/vision/augmented-clinical-decision-support/](https://www.goinvo.com/vision/augmented-clinical-decision-support/)
 
 ### Contributors
 Founders/Designers: [GoInvo](https://www.goinvo.com) is a digital design studio in Boston, crafting the future of healthcare through strategy, creativity, and vision.  
