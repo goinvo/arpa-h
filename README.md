@@ -1,4 +1,4 @@
-# Paradigm
+# ARPA-H Paradigm
 
 ### Feature
 [https://www.goinvo.com/vision/augmented-clinical-decision-support/](https://www.goinvo.com/vision/augmented-clinical-decision-support/)
